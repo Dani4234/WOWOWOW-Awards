@@ -1,0 +1,22 @@
+h1{
+    font-family: 'Abril Fatface', cursive;
+}
+.red{
+    color:red;
+}
+.purple{
+    color:purple;
+}
+.blue{
+    color:blue;
+}
+.grey{
+    color:grey;
+}
+.gold{
+    color:gold;
+}
+body{
+    text-align:center;
+    background:url(https://images.law.com/contrib/content/uploads/sites/402/2017/10/102717Award-Trophy.jpg);
+}
