@@ -1,16 +1,16 @@
 h1{
     font-family: 'Abril Fatface', cursive;
 }
-.red{
+.Best{
     color:red;
 }
-.purple{
+.Female{
     color:purple;
 }
-.blue{
+.Artist{
     color:blue;
 }
-.grey{
+.Rock{
     color:grey;
 }
 .gold{
@@ -18,5 +18,12 @@ h1{
 }
 body{
     text-align:center;
-    background:url(https://images.law.com/contrib/content/uploads/sites/402/2017/10/102717Award-Trophy.jpg);
+    background:url(https://cdn.pixabay.com/photo/2015/04/18/12/22/star-728644_960_720.jpg);
+}
+p{
+    font-family: 'Kumar One Outline', cursive;
+}
+img{
+    height:600px;
+    width:700px;
 }
